@@ -1,6 +1,5 @@
 # myFTP 协议
 
-> 请从[北大教学网](https://course.pku.edu.cn)获取本Lab任务的Github邀请链接, DDL: `2022-10-23 23:59:59`
 
 MyFTP是我们为了方便同学们快速理解POSIX API设计的一个简单的Lab
 
