@@ -1,8 +1,10 @@
--[Lab1 myFTP Protocol](lab1-myftp-protocol)
+# Lab from PKU Computer Network Course
 
--[Lab2 RTP Based on UDP](lab2-rtp-based-on-udp)
+- [Lab1 myFTP Protocol](#lab1-myftp-protocol)
 
--[Lab1 myFTP Protocol](lab1-myftp-protocol)
+[Lab2 RTP Based on UDP](#lab2-rtp-based-on-udp)
+
+[Lab4 Switch](#lab4-switch)
 
 # Lab1-myFTP Protocol
 
