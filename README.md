@@ -2,10 +2,11 @@
 
 - [Lab1 myFTP Protocol](#lab1-myftp-protocol)
 
-[Lab2 RTP Based on UDP](#lab2-rtp-based-on-udp)
+- [Lab2 RTP Based on UDP](#lab2-rtp-based-on-udp)
 
-[Lab4 Switch](#lab4-switch)
+- [Lab4 Switch](#lab4-switch)
 
+- [Simplified Chinese](README-cn.md)
 # Lab1-myFTP Protocol
 
 MyFTP is a simple Lab designed to help students quickly understand POSIX APIs.
